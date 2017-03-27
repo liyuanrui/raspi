@@ -36,7 +36,7 @@ dpkg-reconfigure locales
 export LC_ALL=zh_CN.UTF-8
 ```
 
-### 安装中文字体和输入法
+### 8、安装中文字体和输入法
 ```
 apt-get install ttf-wqy-zenhei
 apt-get install scim-pinyin
